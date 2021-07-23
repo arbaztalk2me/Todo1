@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,KACE,cACF,CAEA,eACE,WACF,CACA,4BACE,SACF","file":"main.0072185c.chunk.css","sourcesContent":[".fas {\n  cursor: pointer;\n}\n\n.fa-plus:hover {\n  color: green;\n}\n.fa-trash-restore-alt:hover {\n  color: red;\n}\n"]}
